@@ -1,4 +1,4 @@
-# googres
+# bing-results
 
 A Clojure program to pull number of Bing results for a list of queries
 
