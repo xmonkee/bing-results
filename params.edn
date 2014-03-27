@@ -1,0 +1,6 @@
+{:sources "News"
+ :key ":DONT_REMOVE_THE_COLON"
+ :url "https://api.datamarket.azure.com/Bing/Search/v1/Composite?"
+ :format "JSON"
+ :path ["d" "results" 0 "NewsTotal"]}
+
